@@ -30,7 +30,7 @@ Clone the repository:
 
 ```
 bash
-git clone https://github.com/yourusername/zerodha-holding-analysis.git
+git clone https://github.com/Abhishekbioinfo/zerodha-holding-analysis.git
 cd zerodha-holding-analysis
 ```
 
